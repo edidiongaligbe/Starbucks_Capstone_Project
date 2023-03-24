@@ -1,1 +1,1 @@
-# Starbucks_Capstone_Project
+# Udacity Machine Learning Nanodegree Capstone Project
