@@ -1,17 +1,9 @@
 # Udacity Machine Learning Nanodegree Capstone Project
 
 ### Introduction
-Starbucks offers promotions designed to attract new customers and encourage existing customers to make repeat purchases, building brand loyalty. These promotions could be in
-form of loyalty programs, buy one, get one free (BOGO), gift cards, etc. These offers come
-through emails, the web, mobile app, and social media. The company keeps a record of
-customers’ interactions with these promotions and the data is useful to serve the customer
-better based on their activities and preferences.
+Starbucks offers promotions designed to attract new customers and encourage existing customers to make repeat purchases, building brand loyalty. These promotions could be in form of loyalty programs, buy one, get one free (BOGO), gift cards, etc. These offers come through emails, the web, mobile app, and social media. The company keeps a record of customers’ interactions with these promotions and the data is useful to serve the customer better based on their activities and preferences. 
 
-The aim of sending promotions and offers to customers is to encourage customers to make
-purchases. It will not be an intelligent move to send the same promotion to all the
-customers at once, this may result in promotions that do not yield the expected results. The
-goal of this project is to make use of the data from Starbucks to determine what promotion
-to send to a demography of customers that will result in higher customer purchases.
+The aim of sending promotions and offers to customers is to encourage customers to make purchases. It will not be an intelligent move to send the same promotion to all the customers at once, this may result in promotions that do not yield the expected results. The goal of this project is to make use of the data from Starbucks to determine what promotion to send to a demography of customers that will result in higher customer purchases.
 
 
 ### Data
@@ -54,4 +46,4 @@ The following metrics are used to evaluate the model.
 3. Matthew Correlation Coefficient (MCC)
 
 ### Credits and Acknowledgements
-Thanks to Udacity for providing dataset.
+Thanks to Udacity and Starbucks for providing dataset.
