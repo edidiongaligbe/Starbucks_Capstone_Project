@@ -40,10 +40,10 @@ The data is contained in three files:
 
 
 ### Evaluation Metrics
-The following metrics are used to evaluate the model.
-1. Accuracy. 
-2. Balanced Accuracy.
-3. Matthew Correlation Coefficient (MCC)
+Accuracy will be used to evaluate the model's performance.
+
+### Benchmark
+Model must have an accuracy score between 0.75 and 0.95 
 
 ### Credits and Acknowledgements
 Thanks to Udacity and Starbucks for providing dataset.
